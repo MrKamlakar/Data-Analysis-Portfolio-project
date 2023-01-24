@@ -1,3 +1,17 @@
+Coronavirus disease 2019 (COVID-19) is a contagious disease caused by a virus, the severe acute respiratory syndrome coronavirus 2 
+(SARS-CoV-2). The first known case was identified in Wuhan, China, in December 2019.[5] The disease quickly spread worldwide, resulting in 
+the COVID-19 pandemic.
+The symptoms of COVID‑19 are variable but often include fever,[6] cough, headache,[7] fatigue, breathing difficulties, 
+loss of smell, and loss of taste.[8][9][10] Symptoms may begin one to fourteen days after exposure to the virus. At least a third of 
+people who are infected do not develop noticeable symptoms.[11] Of those who develop symptoms noticeable enough to be classified as patients, 
+most (81%) develop mild to moderate symptoms (up to mild pneumonia), while 14% develop severe symptoms (dyspnea, hypoxia, or more than 50% lung involvement
+on imaging), and 5% develop critical symptoms (respiratory failure, shock, or multiorgan dysfunction).[12] Older people are at a higher risk of 
+developing severe symptoms. Some people continue to experience a range of effects (long COVID) for months after recovery, and damage to 
+organs has been observed.[13] Multi-year studies are underway to further investigate the long-term effects of the diseas.
+
+In this project I am exploring the covid-19 data
+
+
 ------Here we will use two tables CovidDeaths and CovidVaccination------
 
 ---Explore the data
